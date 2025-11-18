@@ -1,7 +1,7 @@
 from pathlib import Path
 
-from calculator_pkg_ex import Calculator
-from calculator_pkg_ex.file_calculator import FileCalculator
+from calculator_pkg_abhinav import Calculator
+from calculator_pkg_abhinav.file_calculator import FileCalculator
 
 print(Calculator().add(1, 2))
 FileCalculator().sum_file(Path("~/Desktop/nums.csv").expanduser())
