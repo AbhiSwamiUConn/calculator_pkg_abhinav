@@ -1,6 +1,6 @@
 class Calculator:
     def __init__(self):
-        print("In calculator")
+        print("hello!")
 
     def add(self, a, b):
         return a + b
