@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "calculator_pkg_abhinav"
-version = "0.7.0"
+version = "0.8.0"
 requires-python = ">=3.10"
 description = "Calulator demo without pybind11"
 readme = "README.md"

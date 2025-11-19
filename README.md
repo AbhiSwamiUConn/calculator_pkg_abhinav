@@ -20,7 +20,7 @@ Some Linting Badges (Where I could find them):
 # calculator\_pkg\_abhinav
 
 
-### If you like the repo, it would be awesome if you could add a star to it! It really helps out the visibility. Also for any questions at all we'd love to hear from you at jfuruness@gmail.com
+### If you like the repo, it would be awesome if you could add a star to it! It really helps out the visibility. Also for any questions at all we'd love to hear from you at abhinav.swaminathan@uconn.edu
 
 * [Description](#package-description)
 * [Usage](#usage)
@@ -106,7 +106,7 @@ tox --skip-missing-interpreters
 6. Commit your changes: `git commit -am 'Add some feature'`
 7. Push to the branch: `git push origin my-new-feature`
 8. Ensure github actions are passing tests
-9. Email me at jfuruness@gmail.com if it's been a while and I haven't seen it
+9. Email me at abhinav.swaminathan@uconn.edu if it's been a while and I haven't seen it
 
 NOTE: all contributions from other contributors are listed under the existing license for this repo unless stated otherwise, and by contributing to this repo you agree to those terms and conditions.
 
